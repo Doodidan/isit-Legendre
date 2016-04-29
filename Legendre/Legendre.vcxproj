@@ -78,9 +78,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="findSymbol.cpp" />
+    <ClCompile Include="isPrime.cpp" />
+    <ClCompile Include="legSym.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="residue.cpp" />
+    <ClCompile Include="isResidue.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="functions.h" />
