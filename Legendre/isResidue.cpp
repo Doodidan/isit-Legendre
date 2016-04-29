@@ -1,5 +1,4 @@
 #include "head.h"
-#include "functions.h"
 
 bool isResidue (int a, int p) {
 	int answer = 0, z = p - 1, *o = new int[p - 1];

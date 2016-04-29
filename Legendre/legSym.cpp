@@ -1,5 +1,4 @@
 #include "head.h"
-#include "functions.h"
 
 int legSym (int a, int p) {
 	if ((a%p) == 0) { // если делится нацело
